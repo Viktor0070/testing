@@ -1,0 +1,12 @@
+{ 
+    "name": "my project", 
+    "author": "Rui Coelho", 
+    "version": "0.0.1", 
+    "description": "ffdfd", 
+    "scripts": { 
+         "start" :"serve" 
+    } ,
+    "dependencies": { 
+         "serve":"^11.3.2" 
+    } 
+}
