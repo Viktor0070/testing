@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
     entry: {
-        app: './app/index.js'
+        app: './src/index.js'
 
     },
     output: {
@@ -15,7 +15,7 @@ module.exports = {
 
         client: {
             overlay: true,
-          },
+        },
     }
 
 }
